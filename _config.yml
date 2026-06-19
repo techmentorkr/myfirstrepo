@@ -6,6 +6,6 @@ lang: ko
 baseurl: "/myfirstrepo"
 url: "https://techmentorkr.github.io"
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year-:month-:day/:title/
 
 encoding: utf-8

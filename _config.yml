@@ -3,6 +3,9 @@ title: my-blog
 description: 마크다운으로 쓰는 나의 블로그
 lang: ko
 
+baseurl: "/myfirstrepo"
+url: "https://techmentorkr.github.io"
+
 permalink: /:year/:month/:day/:title/
 
 encoding: utf-8
